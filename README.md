@@ -2,9 +2,14 @@
 function is a reusable block of code.
 
 How to function creation?
+~~~
+
 function greet() {
   console.log("Hello, World!");
 }
+
+~~~
+
 
 # Question
 Time to write your own function. Write a function that is called "sayMyName". Inside, write a console.log() statement that says "My name is Ada", but use your own name.
